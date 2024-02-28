@@ -1,4 +1,4 @@
-![migrateshop](https://github.com/migrateshop/migrateshop/assets/77200601/e9619def-1734-462e-bbda-799a47e66463)
+![Migrateshop](https://github.com/migrateshop/migrateshop/assets/77200601/53788cfe-5c38-439d-8cd5-89c69bc9becd)
 <h1 align="center"> Hi there 👋, We're Migrateshop</h1>
 <h3 align="center">Top Clone Scripts and Themes Development Company</h3>
 
