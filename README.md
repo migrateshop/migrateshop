@@ -26,9 +26,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/migrateshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="migrateshop" height="30" width="40" /></a>
+<a href="https://dev.to/migrateshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="migrateshop" height="30" width="40" /></a>
 <a href="https://twitter.com/migrateshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="migrateshop" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/company/migrateshop/?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/migrateshop/?originalsubdomain=in" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/23482785/sangvish-technologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/23482785/sangvish-technologies" height="30" width="40" /></a>
 <a href="https://fb.com/migrateshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="migrateshop" height="30" width="40" /></a>
 <a href="https://instagram.com/themigrateshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themigrateshop" height="30" width="40" /></a>
+<a href="https://dribbble.com/themigrateshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="themigrateshop" height="30" width="40" /></a>
+<a href="https://www.behance.net/sarahkrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sarahkrish" height="30" width="40" /></a>
+<a href="https://hashnode.com/@migrateshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@migrateshop" height="30" width="40" /></a>
+<a href="https://medium.com/migrateshop21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="migrateshop21" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/channel/ucl9i1ayoguttcf5zz1qlfmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucl9i1ayoguttcf5zz1qlfmq" height="30" width="40" /></a>
 </p>
 
