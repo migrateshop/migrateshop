@@ -36,7 +36,6 @@
 <a href="https://dribbble.com/themigrateshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="themigrateshop" height="30" width="40" /></a>
 <a href="https://www.behance.net/sarahkrish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sarahkrish" height="30" width="40" /></a>
 <a href="https://hashnode.com/@migrateshop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@migrateshop" height="30" width="40" /></a>
-<a href="https://medium.com/migrateshop21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="migrateshop21" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/channel/ucl9i1ayoguttcf5zz1qlfmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucl9i1ayoguttcf5zz1qlfmq" height="30" width="40" /></a>
 </p>
 
