@@ -19,7 +19,7 @@
 
 - 💬 Ask about us **Clone Website and App, Latest Themes**
 
-- 📫 How to reach me **info@sangvish.com**
+- 📫 How to reach me **support@migrateshop.com**
 
 - 📄 Join With US [https://wa.me/+919043193012](https://wa.me/+919043193012)
 
